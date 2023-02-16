@@ -1,16 +1,3 @@
-<style>
-    /* Alinhar titulos */
-    h1, h2, h3, h4, h5, h6, a, b{
-        text-align: center;
-    }
-
-    img{
-        width: 80%;
-        margin-left: 10%;
-        margin-right: 10%;
-    }
-</style>
-
 <!-- README Utilizado no perfil do GitHub -->
 ## Olá, me chamo Ellias!
 ### Bem vindo ao meu perfil GitHub
