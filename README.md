@@ -9,21 +9,21 @@
 
 <br>
 
-> <p> Sou técnico de "Desenvolvimento de Sistemas" formado pela ETEC Machado de Assis. </p>
-> <p> Sou formado em cursos de: </ps>
-> <li> Análise de Sistemas </li>
-> <li> Banco de Dados </li>
-> <li> Algoritmos da Programação </li>
-> <li> Aplicação Mobile </li>
-> <li> Sistemas Embarcados </li>
-> <li> Qualidade de Softwares </li>
-> <li> Redes </li>
-> <li> Desenvolvimento Web </li>
-> <li> HTML5 </li>
-> <li> PHP </li>
-> <li> JavaScript </li>
-> <li> C# Orientado a Objetos </li>
-> <li> Python </li>
+<p> Sou técnico de "Desenvolvimento de Sistemas" formado pela ETEC Machado de Assis. </p>
+<p> Sou formado em cursos de: </ps>
+<li> Análise de Sistemas </li>
+<li> Banco de Dados </li>
+<li> Algoritmos da Programação </li>
+<li> Aplicação Mobile </li>
+<li> Sistemas Embarcados </li>
+<li> Qualidade de Softwares </li>
+<li> Redes </li>
+<li> Desenvolvimento Web </li>
+<li> HTML5 </li>
+<li> PHP </li>
+<li> JavaScript </li>
+<li> C# Orientado a Objetos </li>
+<li> Python </li>
 
 <br>
 
