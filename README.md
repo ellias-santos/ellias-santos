@@ -5,8 +5,10 @@
 <h3> Sou formado em "Desenvolvimento de Sistemas" pela ETEC. </h3>
 <h3> Estou cursando "Engenharia da Computação" na UNIVESP. </h3>
 <hr>
+
 [**Instagram**](https://instagram.com/_ellipw) <br>
 [**LinkedIn**](https://linkedin.com/in/elliws)
+
 <hr>
 <h4> Principais qualidades: </h4>
 <li> Gestão de Equipes </li>
