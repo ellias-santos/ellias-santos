@@ -5,7 +5,7 @@
 <br>
 
 [**Instagram**](https://instagram.com/_ellipw) <br>
-[**LinkedIn**](https://linkedin.com/in/ellipw)
+[**LinkedIn**](https://linkedin.com/in/elliws)
 
 <br>
 
