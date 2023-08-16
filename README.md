@@ -2,8 +2,8 @@
 ## Olá, me chamo Ellias!
 ### Bem vindo ao meu perfil GitHub
 <hr>
-<h3> Sou formado em "Desenvolvimento de Sistemas" pela ETEC. </h3>
-<h3> Estou cursando "Engenharia da Computação" na UNIVESP. </h3>
+<h4> Sou formado em "Desenvolvimento de Sistemas" pela ETEC. </h3>
+<h4> Estou cursando "Engenharia da Computação" na UNIVESP. </h3>
 <hr>
 
 [**Instagram**](https://instagram.com/_ellipw) <br>
