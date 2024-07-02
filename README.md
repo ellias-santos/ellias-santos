@@ -1,6 +1,5 @@
 <!-- README Utilizado no perfil do GitHub -->
-## Olá, me chamo Ellias!
-### Bem vindo ao meu perfil GitHub
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Ellias.+Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 <hr>
 <h4> Sou formado em "Desenvolvimento de Sistemas" pela ETEC. </h3>
 <h4> Estou cursando "Engenharia da Computação" na UNIVESP. </h3>
