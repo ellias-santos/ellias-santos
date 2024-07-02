@@ -1,5 +1,5 @@
 <!-- README Utilizado no perfil do GitHub -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Ol%C3%A1%2C+sou+o+Ellias.+Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=752CDB&random=false&width=550&lines=Ol%C3%A1%2C+sou+o+Ellias.+Bem-vindo+ao+meu+GitHub!)](https://git.io/typing-svg)
 <hr>
 <h4> Sou formado em "Desenvolvimento de Sistemas" pela ETEC. </h3>
 <h4> Estou cursando "Engenharia da Computação" na UNIVESP. </h3>
